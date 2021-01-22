@@ -1,5 +1,3 @@
-// Github Code link: 
-
 // Problem Solving Number 1 Kilometer To Meter Convert
 function kilometerToMeter(kilometer){
     meter = kilometer * 1000;
@@ -75,6 +73,4 @@ function megaFriend(arr) {
       return max;
   }
 }
-
-
 // console.log(megaFriend(ArrayMax));
